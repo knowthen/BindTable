@@ -1,4 +1,5 @@
-# bindtable provides cool (but hacky) bindings to RethinkDB
+# BindTable provides cool bindings to RethinkDB
+bindtable is an experimental library that binds a clientside object to rethinkdb queries.
 ```javascript
 // Example usage in angularjs
 var app = angular.module('realtime', 
